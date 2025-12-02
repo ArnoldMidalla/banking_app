@@ -58,7 +58,7 @@ export const cards = [
     type: "Infinite",
     number: "2012 2131 1293 3291",
     holder: "A Erickson",
-    expires: "xx/xx",
+    expires: "10/27",
     color: "bg-teal-500",
   },
 ];

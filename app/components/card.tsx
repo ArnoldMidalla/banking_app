@@ -61,7 +61,7 @@ export default function CurrentCard() {
                     </Text>
 
                     {/* Bottom Row */}
-                    <View className="flex-row justify-between mt-3">
+                    <View className="flex-row gap-6 mt-3">
                       <View>
                         <Text className="text-white/80 font-dmsansMedium text-xs">
                           Card Holder
